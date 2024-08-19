@@ -1,0 +1,3 @@
+C:/Users/osyed/OneDrive/Desktop/ObjectDetectionUsingC++/build/CMakeFiles/YOLOv3ObjectDetection.dir
+C:/Users/osyed/OneDrive/Desktop/ObjectDetectionUsingC++/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/osyed/OneDrive/Desktop/ObjectDetectionUsingC++/build/CMakeFiles/ZERO_CHECK.dir

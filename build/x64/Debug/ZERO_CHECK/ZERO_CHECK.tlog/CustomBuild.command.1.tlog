@@ -1,0 +1,10 @@
+^C:\USERS\OSYED\ONEDRIVE\DESKTOP\OBJECTDETECTIONUSINGC++\BUILD\CMAKEFILES\FA5A61A086515282EE66E4652A21B4EF\GENERATE.STAMP.RULE
+setlocal
+C:\Users\osyed\AppData\Local\anaconda3\Lib\site-packages\cmake\data\bin\cmake.exe -SC:/Users/osyed/OneDrive/Desktop/ObjectDetectionUsingC++ -BC:/Users/osyed/OneDrive/Desktop/ObjectDetectionUsingC++/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/osyed/OneDrive/Desktop/ObjectDetectionUsingC++/build/YOLOv3ObjectDetection.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
